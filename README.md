@@ -1,5 +1,5 @@
-# 💫About Me :
-# Hi there, I'm Dario Novoa 👋
+# 👓 About Me :
+# Hi there, I'm Dario 👋
 
 [![Twitter: highvoltag3](https://img.shields.io/badge/-@highvoltag3-fffff1?style=flat&logo=x&logoColor=black&link=https://x.com/highvoltag3)](https://x.com/highvoltag3) [![Linkedin: Dario Novoa](https://img.shields.io/badge/-Dario%20Novoa-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/darionovoa)](https://linkedin.com/in/darionovoa) [![GitHub highvoltag3](https://img.shields.io/github/followers/highvoltag3?label=follow&style=social)](https://github.com/highvoltag3) [![](https://visitcount.itsvg.in/api?id=highvoltag3&icon=0&color=1)](https://visitcount.itsvg.in)
 
