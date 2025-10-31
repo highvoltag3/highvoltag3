@@ -4,7 +4,9 @@
 [![Linkedin: Dario Novoa](https://img.shields.io/badge/-Dario%20Novoa-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/darionovoa)](https://linkedin.com/in/darionovoa) [![GitHub highvoltag3](https://img.shields.io/github/followers/highvoltag3?label=follow&style=social)](https://github.com/highvoltag3) [![](https://visitcount.itsvg.in/api?id=highvoltag3&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🚀 About Me
-I'm a Software Engineer @Zellerfeld, As a Software Engineer and Leader with over 20 years of industry experience. I specialize in driving innovation, building high-performing teams, and delivering scalable, secure, and user-centric solutions. I've held significant leadership roles at companies like [Atlassian](https://github.com/atlassian) and [ZapLabs](https://github.com/zap-labs), where I've successfully led tech transformations and fostered a culture of continuous improvement.
+I'm a Senior Frontend Engineer at [Zellerfeld](https://zellerfeld.com) with over 20 years of experience building scalable, secure, and user-centric products. I’m passionate about innovation, engineering leadership, and crafting seamless digital experiences that bridge technology and design.  
+
+Previously, I led engineering initiatives at [Atlassian](https://github.com/atlassian) and [ZapLabs](https://github.com/zap-labs), where I drove large-scale technical transformations, modernized frontend ecosystems, and fostered high-performing, cross-functional teams focused on quality, performance, and continuous improvement.
 
 ### 🌟 Skills
 - **Full Stack**: Astro, React, HTML5/X, JavaScript, TypeScript, Ruby, Node, Rust, PHP, Python, Go
